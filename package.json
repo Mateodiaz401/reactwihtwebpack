@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --config webpack.config.dev.js",
-    "build": "webpack --confgin webpack.config.js"
+    "build": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "Mateo Díaz <mateodiaz401@gmail.com>",
@@ -33,5 +33,13 @@
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateodiaz401/reactwihtwebpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mateodiaz401/reactwihtwebpack/issues"
+  },
+  "homepage": "https://github.com/Mateodiaz401/reactwihtwebpack#readme"
 }
